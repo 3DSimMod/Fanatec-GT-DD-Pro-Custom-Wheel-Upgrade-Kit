@@ -1,24 +1,18 @@
 ## About the Mod:
 Complete transformation kit with metal adapter for your Fanatec GT DD Pro Wheel.<br>
-Allows you to use the OEM Hub with any 6x70 mm aftermarket wheel (with a horn button hole) while preserving all buttons and displays.
+Allows you to use the original Hub with any 6x70 mm aftermarket wheel (with a horn button hole) while preserving all buttons and displays.
 <img src="wheel-upgrade.png" width="600">
 
 ### About paddle shifters:
-This adapter kit preserves all functions of the GT DD Pro Steering Wheel except the original paddle shifters. However, you can install third-party paddle shifters (although not necessary for the wheel hub to work). 
-To do so, you will need a paddle shifter kit with a 6x70mm PCD mounting plate. You will also need to select the "shifters grommet" option when purchasing the mod to make space for the shifter cables.
-
-Recommended paddle shifters (choose an option with mounting plate): https://fr.aliexpress.com/item/1005008666478656.html<br>
-A pair of cable connectors (JST 2-pin) is recommended for ease of maintenance: https://fr.aliexpress.com/item/1005007107123815.html
-
-Note: when purchased with the shifters grommet, the kit includes longer screws for mounting the wheel. 
+The kit does not include paddle shifters but is designed for easy installation of aftermarket paddle shifters with a 6x70 mm mounting plate. Example of compatible paddle shifters:
+https://fr.aliexpress.com/item/1005008666478656.html
 
 ### On mounting a dished wheel:
-Since the wheel sits behind the hub, an additional spacer may be required when mounting a dished wheel so the hub doesn’t interfere with it. 
-You may buy such a spacer when purchasing the mod. A set of four spacers is available depending on the wheel’s depth, each with its own set of screws whose length accounts for the spacer’s height.
+Because the wheel sits behind the hub, it may interfere with the hub. The optional add-on kit includes two sets of longer screws as well as three additional spacers to adjust the distance between the hub and the steering wheel.
 <p align="center">
-  <img src="spacer-guide-for-dished-wheels.png" width="500">
+  <img src="Spacers_stack_section_view.jpg" width="800"><br>
+  <strong>Stackable spacers on hub</strong>
 </p>
-You may also need standoffs and screws to bring the shifters paddles closer to the wheel. You can purchase standoffs for such application here: https://fr.aliexpress.com/item/1005004063804402.html
 
 ### Installation tutorial: 
 https://youtu.be/lOmiRt0ZHKk?si=0wj7zZqrhEkcl3WW
